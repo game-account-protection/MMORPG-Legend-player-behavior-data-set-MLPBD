@@ -2,7 +2,7 @@ README
 ===========================
 This is the game data in the paper. 
 
-Take the first data as an example, this table explains the fields corresponding to each data.
+Taking the first data as an example, the following table shows the corresponding properties of each value..
 
 ****
 	
