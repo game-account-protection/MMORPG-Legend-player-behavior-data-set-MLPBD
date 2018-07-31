@@ -2,7 +2,7 @@ README
 ===========================
 This is the game data in the paper. 
 
-Taking the first data as an example, the following table shows the corresponding properties of each value..
+Taking the first data as an example, the following table shows the corresponding properties of each value.And the unit of the attribute and its meaning have already been introduced in the paper.
 
 ****
 	
