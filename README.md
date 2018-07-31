@@ -4,11 +4,6 @@ This is the game data set in the paper. The following table explains the meaning
 
 ****
 	
-|Author|果冻虾仁|
-|---|---
-|E-mail|Jelly.K.Wang@qq.com
-
-
 
 |login_time_degree|time_length_degree|charge_money_degree|boss_acount_degree|pk_acount_degree|copies_acount_degre|buy_equipment_money_degree|upgrade_equipment_money_degree|improve_skillst_money_degree|hero_decoration_money_degree|lottery_money_degree|speach_acount_degree|class_degree|
 |---|---|---|---|---|---|---|---|---|---|---|---|---
