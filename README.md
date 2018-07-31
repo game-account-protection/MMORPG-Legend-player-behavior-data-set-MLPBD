@@ -1,6 +1,8 @@
 README
 ===========================
-This is the game data set in the paper. The following table explains the meaning of the data.
+This is the game data set in the paper. 
+
+Take the first data as an example, this table explains the fields corresponding to each data.
 
 ****
 	
