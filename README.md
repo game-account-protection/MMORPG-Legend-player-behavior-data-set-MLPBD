@@ -8,10 +8,14 @@
 
 The research is based on the data collected from a real MMORPG game “Legend”. In the game, the players have many candidate roles to take part in a team and fight against others to gain virtual currency as a reward. And they also have multiple ways to consume their virtual currency, such as purchasing equipment, upgrading skills, upgrading equipment, sending gift to team members, etc. The UI of the game is shown in Fig.1.
  ![](https://github.com/game-account-protection/MMORPG-Legend-player-behavior-data-set-MLPBD/blob/master/img-folder/1(1).png)
+ shown in Fig.1.
+ ![](https://github.com/game-account-protection/MMORPG-Legend-player-behavior-data-set-MLPBD/blob/master/img-folder/1(2).png)
+ 
 
 
 The data collection process is shown in Fig.2. All the game data and compositions are stored in the game server. When the user login in through network connection to the game, the user’s personal data is searched and return from the game data server to construct its game scenarios in the client end. Therefore, we embed data collection nterfaces in the games servers to collect player’s behavior features, including login habit, fight ability, and consume preference and social behaviors. These features are submit to the detection server to analysis the user behaviors and prevent the account from illegal users. And then volunteers are invited to play games for two weeks, and we abstract 80 records for each user, which recorded the user operation habit and preference.  
- ![](img_url)
+shown in Fig.1.
+ ![](https://github.com/game-account-protection/MMORPG-Legend-player-behavior-data-set-MLPBD/blob/master/img-folder/2.png)
 	
 ##2.Introduction  of  player’s  behavior features
 ****
