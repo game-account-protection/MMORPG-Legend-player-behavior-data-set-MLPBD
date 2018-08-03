@@ -1,9 +1,10 @@
-#MMORPG Legend player behavior data set (MLPBD)
-****
+MMORPG Legend player behavior data set (MLPBD)
+==============================================
 
 
 
-##1. Data source
+1. Data source
+====================
 ****
 
 The research is based on the data collected from a real MMORPG game “Legend”. In the game, the players have many candidate roles to take part in a team and fight against others to gain virtual currency as a reward. And they also have multiple ways to consume their virtual currency, such as purchasing equipment, upgrading skills, upgrading equipment, sending gift to team members, etc. The UI of the game is shown in Fig.1.
@@ -19,7 +20,8 @@ The data collection process is shown in Fig.2. All the game data and composition
 shown in Fig.1.
  ![](https://github.com/game-account-protection/MMORPG-Legend-player-behavior-data-set-MLPBD/blob/master/img-folder/2.png)
 	
-##2.Introduction  of  player’s  behavior features
+2.Introduction  of  player’s  behavior features
+====================
 ****
 
 Taking the first data as an example, the following table shows the corresponding attributes of each value. The unit of the attribute and its meaning have already been introduced in the paper.
