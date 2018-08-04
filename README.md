@@ -26,10 +26,23 @@ The data collection process is shown in Fig.2. All the game data and composition
 	
 2.Introduction  of  player’s  behavior features
 ====================
-
+The features of the player's behavior are introduced as follows：
 
 Taking the first data as an example, the following table shows the corresponding attributes of each value. The unit of the attribute and its meaning have already been introduced in the paper.
 
+|Feature|Description|Unit|
+|pk_acount_average|The number of participated in the battle between players during one unit of time.|Times/hour
+|time_length|The online duration time after game login|Hours
+|speak_acount_average|The number of messages sent in one unit of time.|Times / hour
+|boss_acount_average|The number of challenged game BOSS during one unit of time.|Times/hour
+|upgrade_equipment_money_average|The amount of money spent on upgrading the equipment during one unit of time.|Game currency / hour
+|improve_skill_money_average|The amount of money spent on upgrading the game skills during one unit of time.|Game currency / hour
+|lottery_money_average|The amount of money spent on game gambling during one unit of time.|Game currency / hour
+|login_time|The login time  of the player |Time
+|hero_decoration_money_average|The amount of money spent on decorative items during one unit of time.|Game currency / hour
+|buy_equipment_money_average|The amount of money spent on new equipment during one unit of time.|Game currency / hour
+|copies_acount_average|The number of  participated in game copies（a special scene of battle） during one unit of time.|Times/hour
+|recharge_acount_average|The amount of money the player recharge the game currency during one unit of time.|Game currency / hour
 
 
 
