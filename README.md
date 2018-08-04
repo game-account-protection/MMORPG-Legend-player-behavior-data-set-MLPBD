@@ -19,6 +19,7 @@ The research is based on the data collected from a real MMORPG game “Legend”
 
 The data collection process is shown in Fig.2. All the game data and compositions are stored in the game server. When the user login in through network connection to the game, the user’s personal data is searched and return from the game data server to construct its game scenarios in the client end. Therefore, we embed data collection nterfaces in the games servers to collect player’s behavior features, including login habit, fight ability, and consume preference and social behaviors. These features are submit to the detection server to analysis the user behaviors and prevent the account from illegal users. And then volunteers are invited to play games for two weeks, and we abstract 80 records for each user, which recorded the user operation habit and preference.  
 ![Image text](https://github.com/game-account-protection/MMORPG-Legend-player-behavior-data-set-MLPBD/blob/master/img-folder/2.png)
+<div align=center><label>Fig. 2. Data collection model</label></div>
 
 	
 2.Introduction  of  player’s  behavior features
