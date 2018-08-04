@@ -28,6 +28,7 @@ The data collection process is shown in Fig.2. All the game data and composition
 ====================
 The features of the player's behavior are introduced as follows：
 
+<div align=center><label>The  features of player’s behavior</label></div>
 |Feature|Description|Unit|
 |---|---|---
 |pk_acount_average|The number of participated in the battle between players during one unit of time.|Times/hour
@@ -45,8 +46,9 @@ The features of the player's behavior are introduced as follows：
 
 
 
-Taking the first data as an example, the following table shows the corresponding attributes of each value. The unit of the attribute and its meaning have already been introduced in the paper.	
+Taking the first data as an example, the following table shows the corresponding attributes of each value. 
 
+<div align=center><label>An example of the data</label></div>
 |login_time|time_length|recharge_acount_average|boss_acount_average|pk_acount_average|copies_acount_average|buy_equipment_money_average|upgrade_equipment_money_average|improve_skill_money_average|hero_decoration_money_average|lottery_money_average|speak_acount_average|label|
 |---|---|---|---|---|---|---|---|---|---|---|---|---
 |14:02|2.33|0.00|5.00|5.00|40.00|0.00|100.00|60.00|0.00|20.00|13.00|1.00 
