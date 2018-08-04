@@ -31,6 +31,7 @@ The features of the player's behavior are introduced as follows：
 Taking the first data as an example, the following table shows the corresponding attributes of each value. The unit of the attribute and its meaning have already been introduced in the paper.
 
 |Feature|Description|Unit|
+|---|---|---
 |pk_acount_average|The number of participated in the battle between players during one unit of time.|Times/hour
 |time_length|The online duration time after game login|Hours
 |speak_acount_average|The number of messages sent in one unit of time.|Times / hour
