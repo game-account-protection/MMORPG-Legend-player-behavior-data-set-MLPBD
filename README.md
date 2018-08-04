@@ -1,7 +1,7 @@
 ****
 MMORPG Legend player behavior data set (MLPBD)
 ====================
-In order to facilitate more researchers to conduct related research, we published the dataset. And in this project,  we will keep updating the relevant datasets.
+In order to facilitate more researchers to do related research, we published the dataset in this project. And we will keep updating the relevant datasets.
 
 
 1.Data source
