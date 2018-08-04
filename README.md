@@ -11,8 +11,8 @@ MMORPG Legend player behavior data set (MLPBD)
 
 The research is based on the data collected from a real MMORPG game “Legend”. In the game, the players have many candidate roles to take part in a team and fight against others to gain virtual currency as a reward. And they also have multiple ways to consume their virtual currency, such as purchasing equipment, upgrading skills, upgrading equipment, sending gift to team members, etc. The UI of the game is shown in Fig.1.
 <div align=center>
-	<img width="200" height="600" src="https://github.com/game-account-protection/MMORPG-Legend-player-behavior-data-set-MLPBD/blob/master/img-folder/1(1).png"/>
-	<img width="150" height="300" src="https://github.com/game-account-protection/MMORPG-Legend-player-behavior-data-set-MLPBD/blob/master/img-folder/2(2).png"/>
+	<img width="300" height="500" src="https://github.com/game-account-protection/MMORPG-Legend-player-behavior-data-set-MLPBD/blob/master/img-folder/1(1).png"/>
+	<img width="300" height="500" src="https://github.com/game-account-protection/MMORPG-Legend-player-behavior-data-set-MLPBD/blob/master/img-folder/2(2).png"/>
 </div>
 
 
