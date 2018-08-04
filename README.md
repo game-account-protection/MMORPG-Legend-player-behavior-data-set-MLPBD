@@ -28,7 +28,7 @@ The data collection process is shown in Fig.2. All the game data and composition
 ====================
 The features of the player's behavior are introduced as follows：
 
-<div align=center><label>Table 2  The  features of player’s behavior</label></div>
+<div align=center font-weight:bold><label>Table 2  The  features of player’s behavior</label></div>
 
 |Feature|Description|Unit|
 |---|---|---
