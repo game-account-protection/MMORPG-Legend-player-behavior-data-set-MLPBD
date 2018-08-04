@@ -15,7 +15,6 @@ The research is based on the data collected from a real MMORPG game “Legend”
 	<img width="300" height="500" src="https://github.com/game-account-protection/MMORPG-Legend-player-behavior-data-set-MLPBD/blob/master/img-folder/2(2).png"/>
 </div>
 <div align=center><label>Fig. 1. MMORPG “Legend”</label></div>
-<div align=center><label>  </label></div>
 
 
 
